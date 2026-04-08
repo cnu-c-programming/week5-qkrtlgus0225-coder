@@ -10,7 +10,7 @@ void double_elements(int *p, int size){
 int main(){
   int arr[5];
 
-  scanf(%d %d %d %d %d, &arr[0], &arr[1], &arr[2], &arr[3], &arr[4]);
+  scanf("%d %d %d %d %d", &arr[0], &arr[1], &arr[2], &arr[3], &arr[4]);
 
   double_elements(arr,5);
 
