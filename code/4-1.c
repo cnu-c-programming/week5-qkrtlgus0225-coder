@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdiob.h>
+#include <stdlib.h>
 
 void echo() {
     char buf[5];
